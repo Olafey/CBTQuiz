@@ -1,7 +1,3 @@
-Here's a description for a Computer-Based Test (CBT) quiz application created using HTML, CSS, and JavaScript:
-
----
-
 ## CBT Quiz Application
 
 ### Overview
