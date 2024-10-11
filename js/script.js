@@ -1,7 +1,12 @@
 const quizData = [
   {
-    question: "What is the capital of France?",
-    options: ["Berlin", "Madrid", "Paris", "Lisbon"],
+    question: "What is HTML?",
+    options: [
+      "HTML describes the structure of a page",
+      "Madrid",
+      "Paris",
+      "Lisbon",
+    ],
     answer: "Paris",
   },
   {
